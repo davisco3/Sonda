@@ -1,0 +1,7 @@
+movimento,grau_atual,posicao_atual_y,posicao_atual_x
+d,90,0,0
+f,90,0,1
+f,270,-1,0
+f,270,-1,-1
+f,270,-1,-1
+f,270,-1,-2
